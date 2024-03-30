@@ -62,3 +62,10 @@ body[theme="salmon"]
 {
     color: var(--dsalmon);
 }
+.videodiv
+{
+    clip-path:circle(var(--clip) at 50% 50%)
+}
+
+
+
